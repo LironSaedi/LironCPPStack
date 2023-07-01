@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironCPPStack\LironCPPStack\Stack.h(7,11): error C2597: illegal reference to non-static member 'Stack<T>::Count'
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironCPPStack\LironCPPStack\Stack.h(6,6): message : see declaration of 'Stack<T>::Count'
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LironCPPStack\LironCPPStack\Stack.h(46,2): message : see reference to class template instantiation 'Stack<T>' being compiled
